@@ -1,0 +1,4 @@
+#ignore the target folder
+/target/
+*.idea
+aquicktest.iml
